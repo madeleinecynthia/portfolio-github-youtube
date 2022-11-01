@@ -559,6 +559,8 @@ table tr th:last-child{
     }
     .menu-icon{
         display: inline-block;
+        width: 30px;
+        height: 30px;
         cursor: pointer;
     }
 }
